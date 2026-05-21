@@ -38,6 +38,7 @@ Pré-requisitos (VS Code é opcional)
 - Biblioteca Rich instalada.  
 - [Visual Studio Code](https://code.visualstudio.com/) instalado (Opcional).  
 
+```bash
 Passo a Passo  
 
   # 1. UMA SOLUÇÃO:
@@ -65,14 +66,11 @@ Extraia os arquivos e abra a pasta no Visual Studio Code.
 # 2.3. Instale a biblioteca necessária:
 Execute no terminal:
 
-```bash
 pip install rich
-```
 
 # 2.4. Execute a aplicação:
 Rode o arquivo principal com:
 
-```bash
 python main.py
 ```
 
