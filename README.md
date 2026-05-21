@@ -20,7 +20,7 @@ Análise Salarial: Comparação do salário final com o salário mínimo vigente
 
 Interface Visual no Console: Exibição formatada com painéis estilizados utilizando a biblioteca Rich.  
 
-##⚡ Diferenciais Técnicos (Boas Práticas)  
+## ⚡ Diferenciais Técnicos (Boas Práticas)  
 Uso de Classes Abstratas: Implementação da classe abstrata `Funcionario` utilizando `ABC` e `@abstractmethod` para obrigar a implementação do método `Calcular_salario()`.  
 
 Polimorfismo & Herança: Estrutura orientada a objetos com especialização para `FuncionarioHorista` e `FuncionarioMensalista`.  
