@@ -2,6 +2,7 @@
 
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Library](https://img.shields.io/badge/Library-Rich-blueviolet?style=for-the-badge)
+![Interface](https://img.shields.io/badge/Interface-CLI-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
 
 Python
 
@@ -9,7 +10,7 @@ Python
 Linguagem Principal: Python  
 Bibliotecas/Dependências: Rich  
 Paradigma: Programação Orientada a Objetos (POO)  
-IDE Recomendada: Visual Studio Code  
+IDEs Recomendadas: Visual Studio Code (utilizada por mim) & PyCharm.  
 
 ## 📌 Funcionalidades  
 Cadastrar Funcionários: Registro de funcionários horistas e mensalistas utilizando herança e classes abstratas.  
