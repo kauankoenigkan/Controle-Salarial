@@ -1,6 +1,7 @@
 # 💼 Sistema Gerenciador Salarial
 
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rich](https://img.shields.io/badge/Rich-Terminal-blueviolet?style=for-the-badge)
 
 Python
 
