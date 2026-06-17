@@ -1,10 +1,10 @@
 # 💼 Sistema Gerenciador Salarial
 
-![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Library](https://img.shields.io/badge/Library-Rich-blueviolet?style=for-the-badge&logo=pypi&logoColor=white)
-![Interface](https://img.shields.io/badge/Interface-CLI-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
-
-Python
+<p>
+  ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+  ![Library](https://img.shields.io/badge/Library-Rich-blueviolet?style=for-the-badge&logo=pypi&logoColor=white)
+  ![Interface](https://img.shields.io/badge/Interface-CLI-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
+</p>
 
 ## 🚀 Tecnologias e Ferramentas  
 Linguagem Principal: Python  
